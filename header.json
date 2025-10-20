@@ -1,7 +1,7 @@
 {
-"name":"BMS鯖アリーナ譜面ジャンル難易度表",
+"name":"BMS鯖アリーナ譜面ジャンル難易度表(ジャンル別)",
 "symbol":"BA",
-"data_url":"https://script.google.com/macros/s/AKfycbzVNjEsZf1Ve9cr0ea2CJaemJmyvqXzyQbZ753lJ9jRVW88JpDDMM-wvROUjvl1K0pY/exec",
+"data_url":"https://script.google.com/macros/s/AKfycbxO83H3BAoM7w-oJt3-jg9ajZ3r2HUI_3hYDuwPS7zHSTETOW-DRUL_Yca5X8REwF3YGw/exec",
 "course":[
 {"name":"▽9～▽11通常BMS鯖アリーナ譜面ジャンル難易度表アップコースno.1","constraint":["grade_random",""],"md5": ["d39bbec6ad6008341b1721c7aecd64a1","761863c63ecfc1a579f87be40632cce1","f0bd0875c992162cac30daabe3dc27b6","43bb7874ea814639d2c11d0f8043cc52"]},
 {"name":"▽11～▽12+通常BMS鯖アリーナ譜面ジャンル難易度表アップコースno.2","constraint":["grade_random",""],"md5": ["152dd390ddec043963b9b2ea04a3c22d","18aa482e76edfda904b3cf3d646c59bf","522ce11990d09b94e515b653705be4fd","ed95acad04b514c3c0a220983e329fe3"]},
